@@ -1,0 +1,27 @@
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\bin\Release\Java IDE.exe.config
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\bin\Release\Java IDE.exe
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\bin\Release\Java IDE.pdb
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\bin\Release\Java IDE.xml
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\obj\Release\Java IDE.vbprojAssemblyReference.cache
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\obj\Release\Java_IDE.Form1.resources
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\obj\Release\Java_IDE.Form2.resources
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\obj\Release\Java_IDE.Resources.resources
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\obj\Release\Java IDE.vbproj.GenerateResource.cache
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\obj\Release\Java IDE.vbproj.CoreCompileInputs.cache
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\obj\Release\Java IDE.exe
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\obj\Release\Java IDE.xml
+C:\Users\C0delust\source\repos\Java IDE\Java IDE\obj\Release\Java IDE.pdb
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\bin\Release\Java IDE.exe.config
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\bin\Release\Java IDE.exe
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\bin\Release\Java IDE.pdb
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\bin\Release\Java IDE.xml
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\obj\Release\Java IDE.vbprojAssemblyReference.cache
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\obj\Release\Java_IDE.Form1.resources
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\obj\Release\Java_IDE.Form2.resources
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\obj\Release\Java_IDE.Resources.resources
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\obj\Release\Java IDE.vbproj.GenerateResource.cache
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\obj\Release\Java IDE.vbproj.CoreCompileInputs.cache
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\obj\Release\Java IDE.exe
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\obj\Release\Java IDE.xml
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\obj\Release\Java IDE.pdb
+D:\Programming Languages\Visual Basics\Java IDE\Java IDE\obj\Release\Java_IDE.Banner.resources
