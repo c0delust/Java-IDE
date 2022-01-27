@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Java_IDE
+</name>
+</assembly>
+<members>
+<member name="T:Java_IDE.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Java_IDE.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Java_IDE.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Java_IDE.My.Resources.Resources.Applet">
+<summary>
+  Looks up a localized string similar to import java.io.*;
+import java.lang.*;
+import java.util.*;
+import java.applet.*;
+import java.awt.*;
+import java.awt.event.*;
+
+/*
+&lt;applet code = &quot;Untitled&quot; width = &quot;500&quot; height = &quot;500&quot;&gt;&lt;/applet&gt;
+*/
+
+public class Untitled extends Applet
+{
+	public void init()
+	{
+		//initialization
+	}
+	
+	public void start ()
+	{
+		//start or resume execution
+	}
+	
+	public void stop()
+	{
+		//suspend execution
+	}
+	
+	public void destroy()
+	{
+		//perform shutdown activity
+	}
+	
+	public void paint (Graph [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Java_IDE.My.Resources.Resources.Banner">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Java_IDE.My.Resources.Resources.Java">
+<summary>
+  Looks up a localized string similar to import java.io.*;
+import java.lang.*;
+import java.util.*;
+
+public class Untitled
+{
+	public static void main (String args [])
+	{
+		System.out.println(&quot;Hello World!&quot;);
+	}
+}.
+</summary>
+</member>
+</members>
+</doc>
